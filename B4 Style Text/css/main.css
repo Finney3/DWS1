@@ -1,0 +1,71 @@
+/* Css Control for color.html */
+
+#wrapper
+{
+	height:auto;
+	width:auto;
+	background-color:#009;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:12px;
+	font-weight:100;
+	font-style:normal;
+	line-height: 175%;
+	color: white;
+	
+}
+a:link {color:#21FF2E;}
+a:visited {color: #E89D44;}
+a:hover {color: #8C15FF;}
+a:active {color: #FF5E15;}
+p
+{
+	background-color:#0C9;	
+	letter-spacing: 2px;
+}
+
+#navigation
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+li
+{
+	display:inline;
+	
+}
+a
+{
+  	
+display:inline;
+width:100px;
+padding: 10px;
+background-color:#dddddd;
+	
+}
+
+#mainContent
+h1
+{
+background-color:#666;
+color:white;
+font-family: 'Londrina Outline', cursive;
+text-shadow:2px 2px #000000;
+text-transform:capitalize;
+}
+h2
+{
+background-color:#666;
+color:white;
+font-family: 'Londrina Outline', cursive;
+text-shadow:2px 2px #000000;
+text-transform:capitalize;	
+}
+#games
+{
+display:block;
+list-style-type:none;
+margin:0;
+padding:0	
+}
